@@ -10,7 +10,8 @@ Fitlife is a fully responsive fitness website, <br />Responsive for all devices,
 
 ### Screeshots
 <img src="./readme-images/desktop.png" alt="img"/>
-### Prerequisites
+
+Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
