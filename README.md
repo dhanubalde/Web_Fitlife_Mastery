@@ -18,12 +18,12 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Fitlife** locally, run this command on your git bash:
+To run **Fitlife** locally, run this command on your git clone:
 
 Linux and macOS:
 
 ```bash
-
+git clone https://github.com/dhanubalde/Fitlife-Master-2023.git
 ```
 
 Windows:
