@@ -26,12 +26,6 @@ Linux and macOS:
 git clone https://github.com/dhanubalde/Fitlife-Master-2023.git
 ```
 
-Windows:
-
-```bash
-
-```
-
 ### Contact
 
 If you want to contact with me you can reach me at .
